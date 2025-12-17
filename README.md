@@ -5,12 +5,11 @@ More information and my full CV are available on my [personal webpage](https://g
 <!-- My research focuses on uncertainty-aware deep learning methods for large astronomical surveys and time-domain data, including photometric redshifts, transient characterization, and physics-informed neural models.-->
 
 I work within several national and international collaborations:
+- **[LAB-IA](https://labia.cbpf.br/)** — Laboratory of Artificial Intelligence (CBPF)
+- **[Fink](https://fink-broker.org/)** — LSST alert broker
 - **[S-PLUS](https://www.splus.iag.usp.br/)** — Southern Photometric Local Universe Survey  
 - **[DELVE](https://delve-survey.github.io/)** — DECam Local Volume Exploration Survey  
-- **[LAB-IA](https://labia.cbpf.br/)** — Laboratory of Artificial Intelligence (CBPF)  
 - **[CHANCES (4MOST)](https://doi.org/10.1051/0004-6361/202452710)** — Chilean Cluster Galaxy Evolution Survey  
-- **[Fink](https://fink-broker.org/)** — LSST alert broker
-
 
 ## Main research interests
 - SNe, Time-Domain Astronomy, Photometric Redshift

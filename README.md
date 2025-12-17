@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👁️👁️
 
 I am a Ph.D. candidate in Astrophysics at the Centro Brasileiro de Pesquisas Físicas (CBPF), working on machine-learning–driven thecniques for astrophysical problems. 
 More information and my full CV are available on my [personal webpage](https://gsmteixeira.github.io/)
@@ -11,12 +11,11 @@ I work within several national and international collaborations:
 - **[DELVE](https://delve-survey.github.io/)** — DECam Local Volume Exploration Survey  
 - **[CHANCES (4MOST)](https://doi.org/10.1051/0004-6361/202452710)** — Chilean Cluster Galaxy Evolution Survey  
 
-## Main research interests
-- SNe, Time-Domain Astronomy, Photometric Redshift
-- Machine Learning, Bayesian inference
+## Interests
+- SNe, Time-Domain Astronomy, Photometric Redshift, Machine Learning, Bayesian inference
 
 ---
-## Tools & Technologies
+## Thecnical Expertises
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -32,6 +31,7 @@ I work within several national and international collaborations:
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 

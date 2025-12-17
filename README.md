@@ -13,7 +13,7 @@ I work within several national and international collaborations:
 
 ## Interests
 - SNe, Time-Domain Astronomy, Photometric Redshift, Machine Learning, Bayesian inference
-<small><em>Cooking · Music</em></small>🤭
+<small>- Cooking, Music</small> 🤭
 
 ---
 ## Thecnical Expertises

@@ -8,17 +8,13 @@ I work within several national and international collaborations:
 - **[S-PLUS](https://www.splus.iag.usp.br/)** — Southern Photometric Local Universe Survey  
 - **[DELVE](https://delve-survey.github.io/)** — DECam Local Volume Exploration Survey  
 - **[LAB-IA](https://labia.cbpf.br/)** — Laboratory of Artificial Intelligence (CBPF)  
-- **[CHANCES (4MOST)](https://chances.4most.eu/)** — Chilean Cluster Galaxy Evolution Survey  
+- **[CHANCES (4MOST)](https://doi.org/10.1051/0004-6361/202452710)** — Chilean Cluster Galaxy Evolution Survey  
 - **[Fink](https://fink-broker.org/)** — LSST alert broker
 
-<!--
 
-## Main research interests and acheivments
-- Photometric redshifts (DELVE, DESI Legacy Imaging Surveys)
-- Characterization of Supernovae
-- Machine learning for astrophysics
-- Bayesian inference
--->
+## Main research interests
+- SNe, Time-Domain Astronomy, Photometric Redshift
+- Machine Learning, Bayesian inference
 
 ---
 ## Tools & Technologies

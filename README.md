@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Ph.D. candidate in Astrophysics at the Centro Brasileiro de Pesquisas Físicas (CBPF), working on machine-learning–driven thecniques for astrophysical problems. 
-More information, as well as my complete CV are available in my [webpage](https://gsmteixeira.github.io/)*
+More information, as well as my complete CV are available in my [webpage](https://gsmteixeira.github.io/)
 <!-- My research focuses on uncertainty-aware deep learning methods for large astronomical surveys and time-domain data, including photometric redshifts, transient characterization, and physics-informed neural models.-->
 
 I work within several national and international collaborations:
@@ -11,13 +11,14 @@ I work within several national and international collaborations:
 - **[CHANCES (4MOST)](https://chances.4most.eu/)** — Chilean Cluster Galaxy Evolution Survey  
 - **[Fink](https://fink-broker.org/)** — LSST alert broker
 
----
+<!--
 
 ## Main research interests and acheivments
 - Photometric redshifts (DELVE, DESI Legacy Imaging Surveys)
 - Characterization of Supernovae
 - Machine learning for astrophysics
 - Bayesian inference
+-->
 
 ---
 ## Tools & Technologies
@@ -36,7 +37,3 @@ I work within several national and international collaborations:
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-*I enjoy building models that respect both the data and the physics behind them.*

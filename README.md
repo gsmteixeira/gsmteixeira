@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Ph.D. candidate in Astrophysics at the Centro Brasileiro de Pesquisas Físicas (CBPF), working on machine-learning–driven thecniques for astrophysical problems. 
-More information, as well as my complete CV are available in my [webpage](https://gsmteixeira.github.io/)
+More information and my full CV are available on my [personal webpage](https://gsmteixeira.github.io/)
 <!-- My research focuses on uncertainty-aware deep learning methods for large astronomical surveys and time-domain data, including photometric redshifts, transient characterization, and physics-informed neural models.-->
 
 I work within several national and international collaborations:

@@ -33,4 +33,4 @@ I work within several national and international collaborations:
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## [Publication List]([https://labia.cbpf.br/](https://scholar.google.com/citations?user=wTrIFwIAAAAJ&hl=pt-BR))
+## [Publication List]([(https://scholar.google.com/citations?user=wTrIFwIAAAAJ&hl=pt-BR])

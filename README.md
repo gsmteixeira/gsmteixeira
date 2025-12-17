@@ -1,94 +1,38 @@
-# Gabriel Teixeira
+### Hi there 👋
 
-Ph.D. candidate in Astrophysics | Machine Learning for Astronomical Inference  
-Centro Brasileiro de Pesquisas Físicas (CBPF)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange)
 
----
+I am a Ph.D. candidate in Astrophysics at the Centro Brasileiro de Pesquisas Físicas (CBPF), Brazil.  
+My research focuses on applying **machine learning and statistical inference** to astrophysical problems, particularly in **time-domain astronomy** and **large survey data**.
 
-## About Me
-
-I am a Ph.D. candidate in astrophysics working at the interface between **machine learning, Bayesian inference, and observational astronomy**. My research focuses on developing **uncertainty-aware, physically grounded ML methods** for large-scale surveys and time-domain astronomy, with particular interest in sparse and irregular data regimes.
-
-My work spans applications from **photometric redshift estimation** to **transient characterization**, combining deep learning with differentiable physical models and probabilistic inference.
-
----
-
-## Research Interests
-
-- Machine learning for astrophysics and cosmology  
-- Bayesian inference and uncertainty quantification  
-- Time-domain astronomy and transient modeling  
-- Physics-informed and differentiable programming  
-- Simulation-based inference (SBI)  
-- Survey-scale data analysis (LSST, Euclid, 4MOST)
+- Working on ML-driven inference for sparse astronomical data
+- Interested in Bayesian methods, uncertainty quantification, and differentiable models
+- Contributor to large collaborations including **S-PLUS**, **DELVE**, **CHANCES (4MOST)**, and **Fink**
+- Check out my [publications](https://scholar.google.com/) *(link)*
 
 ---
 
-## Current Projects
-
-- **PILCA** — *Physics-Informed Machine Learning Light Curve Analyzer*  
-  Gradient-based inference framework coupling neural networks with differentiable physical models for transient characterization.
-
-- **Photometric Redshifts**  
-  Probabilistic photo-\(z\) estimation using deep learning architectures and density estimators for wide-field surveys.
-
-- **Supernova Progenitors & Shock Cooling**  
-  Observational and modeling studies of Type II supernovae, including early-time light-curve modeling and progenitor constraints.
+## Main research interests
+- Time-domain astronomy & transients (Type II supernovae)
+- Machine learning for astrophysics
+- Bayesian inference & uncertainty quantification
+- Photometric redshifts and large surveys (LSST, Euclid)
 
 ---
 
-## Technical Expertise
+## Tools & Technologies
 
-**Machine Learning**
-- PyTorch, differentiable programming
-- Bayesian Neural Networks
-- Normalizing Flows
-- Neural density estimation
-- Custom deep-learning architectures
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-0B3C5D?style=for-the-badge&logo=python&logoColor=white)
 
-**Inference & Statistics**
-- Bayesian inference
-- Uncertainty calibration
-- MCMC (HMC, ensemble methods)
-- Simulation-based inference
-
-**Astronomy & Surveys**
-- Time-domain astronomy
-- Photometric redshifts
-- Supernovae (Type II)
-- LSST, Euclid, S-PLUS, DELVE, 4MOST
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Collaborations
-
-I have contributed to several large international collaborations, including:
-- **S-PLUS**
-- **DELVE**
-- **CHANCES (4MOST)** — builder role
-- **Fink Broker**
-- **STEP (transient science)**
-
----
-
-## Languages & Tools
-
-- **Programming:** Python, PyTorch, JAX (working knowledge)
-- **Scientific stack:** NumPy, SciPy, Astropy
-- **Languages:** Portuguese (native), English (fluent), Spanish (conversational)
-
----
-
-## Contact
-
-- 📧 Email: *[your email here]*  
-- 🌐 Website / Google Scholar: *[optional]*  
-
----
-
-### Keywords / Tags
-
-`#Astrophysics` `#MachineLearning` `#Astrostatistics` `#BayesianInference`  
-`#TimeDomainAstronomy` `#UncertaintyQuantification`  
-`#DifferentiableProgramming` `#SimulationBasedInference`  
-`#LSST` `#Supernovae`
+*I enjoy building models that respect both the data and the physics behind them.*

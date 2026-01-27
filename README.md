@@ -1,4 +1,4 @@
-### Hi there 👁️👁️
+### Hey there 👁️👁️
 
 I am a Ph.D. candidate in Astrophysics at the Centro Brasileiro de Pesquisas Físicas (CBPF), working on machine-learning–driven thecniques for astrophysical problems. 
 More information and my full CV are available on my [personal webpage](https://gsmteixeira.github.io/)

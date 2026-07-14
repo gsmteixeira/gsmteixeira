@@ -13,8 +13,7 @@ I work within several national and international collaborations:
 
 ## Interests
 - SNe, Time-Domain Astronomy, Photometric Redshift, Machine Learning, Bayesian inference
-- <small>Cooking, Music</small> 🤭
-
+  
 ---
 ## Thecnical Expertises
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
